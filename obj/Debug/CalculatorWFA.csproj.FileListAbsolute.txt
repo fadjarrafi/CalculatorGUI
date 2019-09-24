@@ -1,0 +1,10 @@
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorWFA\bin\Debug\CalculatorWFA.exe.config
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorWFA\bin\Debug\CalculatorWFA.exe
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorWFA\bin\Debug\CalculatorWFA.pdb
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorWFA\obj\Debug\CalculatorWFA.csprojAssemblyReference.cache
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorWFA\obj\Debug\CalculatorWFA.Form1.resources
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorWFA\obj\Debug\CalculatorWFA.Properties.Resources.resources
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorWFA\obj\Debug\CalculatorWFA.csproj.GenerateResource.cache
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorWFA\obj\Debug\CalculatorWFA.csproj.CoreCompileInputs.cache
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorWFA\obj\Debug\CalculatorWFA.exe
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorWFA\obj\Debug\CalculatorWFA.pdb
